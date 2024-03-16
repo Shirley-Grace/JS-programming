@@ -8,7 +8,10 @@ let width = 5;
  console.log(area);
 
 
- *//PERIMETER
+ */
+
+
+ //PERIMETER
 let length = 15;
 let width = 10;
   let perimeter = ((2*length) +(2*width));
