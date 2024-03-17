@@ -45,7 +45,7 @@ const cars = [
     {brand: "BMW", model:  "X3", year:2018},
 ]
 
-console.log(cars[1].model);
+//console.log(cars[1].model);
 
 
 class Person{
@@ -70,7 +70,7 @@ function Persons(firstName,lastName, age, isStudent){
 
 
 
-
+newDate (25/09/2032)
 
 
 
